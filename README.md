@@ -1,2 +1,2 @@
 # bookbot
-Boot.Dev guided project
+bookbot is a boot.dev guided project
